@@ -6,7 +6,8 @@ The following is all the code that is finished from the **Responsive Web Design*
 The course is not finished yet but these are what I have so far.
 
 <h2>Contains:</h2>
-*Italics*= Contains CSS files
+
+*Italics*= Contains CSS files\
 1. Cat App
 2. *Coffee shop*
 3. *Markers*
