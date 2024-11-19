@@ -5,8 +5,6 @@
 This is all the code I have completed so far in the **Responsive Web Design** course at <a href="https://www.freecodecamp.org/"> FreeCodeCamp</a>. Although the course isn’t finished yet, this is the progress I’ve made. 
 Please feel free to review, correct, and organize the files. I’m also looking for tips on how to improve my coding journey.
 
-Let me know if you need further revisions or additional tips on improving your coding journey!
-
 The repo does not include the code for certifications.
 <hr>
 
