@@ -17,3 +17,4 @@ The repo does not include the code for certifications.
 1. *Markers*
 1. *Registration form*
 1. *Rothko Painting*
+1. *Photo Gallery*
