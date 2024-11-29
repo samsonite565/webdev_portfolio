@@ -16,3 +16,4 @@ The repo does not include the code for certifications.
 1. *Coffee shop*
 1. *Markers*
 1. *Registration form*
+1. *Rothko Painting*
