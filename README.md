@@ -26,5 +26,3 @@ Here are some of my projects:
  Rothko Painting | Use of CSS and HTML to create unique project
  Photo Gallery| Picture of cats ordered using CSS
  Nutrition Facts | Use of Typography and CSS to mimic the Nutritional Facts label
-
-
