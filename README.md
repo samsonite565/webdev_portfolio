@@ -12,9 +12,19 @@ The repo does not include the code for certifications.
 
 <em>**Italics**</em>= Contains CSS files
 
-1. Cat App
-1. *Coffee shop*
-1. *Markers*
-1. *Registration form*
-1. *Rothko Painting*
-1. *Photo Gallery*
+
+# My Projects
+
+Here are some of my projects:
+
+ |Project | Description|
+ ---------|------------
+ Cat App | Simple HTML code from free code Camp Web Development Project
+ Coffee Shop | Second Project
+ Markers | Use of CSS to create different Markers
+ Registration Form | Use of CSS to create a registration form
+ Rothko Painting | Use of CSS and HTML to create unique project
+ Photo Gallery| Picture of cats ordered using CSS
+ Nutrition Facts | Use of Typography and CSS to mimic the Nutritional Facts label
+
+
