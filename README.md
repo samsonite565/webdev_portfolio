@@ -12,9 +12,12 @@ The repo does not include the code for certifications.
 
 <em>**Italics**</em>= Contains CSS files
 
-1. Cat App
-1. *Coffee shop*
-1. *Markers*
-1. *Registration form*
-1. *Rothko Painting*
-1. *Photo Gallery*
+|Project | Description|
+|----------|-----------|
+|Cat App| Simple app
+*Coffee shop*| First code with CSS
+|*Markers*| Second code with CSS
+|*Registration form*| Created first Registation form
+|*Rothko Painting*| Some random project|
+|*Photo Gallery*| Gallery of Cats
+*Accessiblity Quiz*| Quiz Designed for those with accessiblity
